@@ -57,7 +57,7 @@ margin-right: 10px;
 }
 
 #dsmovie-cardlist {
-    padding: 40px;
+    padding: 40px 10px;
 }
 
 .DSMovie-Card{
@@ -77,12 +77,12 @@ margin-right: 10px;
     align-items: center;
     justify-content: space-between;
     border-radius: 0  0 8px 8px;
-    height: 220px;
+    height: 190px;
 }
 .dsmovie-card-description h3{
     font-size: 14px;
     font-weight: 700;
-    margin-bottom: 25px;
+    margin-bottom: 10px;
     text-align: center;
 
 
